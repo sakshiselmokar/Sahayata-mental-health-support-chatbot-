@@ -45,6 +45,11 @@
 📌 **Click below to watch the demo**:  
 [click here](https://github.com/sakshiselmokar/Sahayata-mental-health-support-chatbot-/blob/main/demo_video_of_project.mp4)** to view the video directly.
 
+## 🔄 Workflow Diagram  
+Below is the architecture of the **Sahayata** system:
+
+![Workflow Diagram](https://github.com/sakshiselmokar/Sahayata-mental-health-support-chatbot-/blob/main/image.png)
+
 ---
 
 ## 🚀 **How to Run**  
