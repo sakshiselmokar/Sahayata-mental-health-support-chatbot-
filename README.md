@@ -43,7 +43,7 @@
 
 ## 🎥 **Demo Video**  
 📌 **Click below to watch the demo**:  
-[click here](https://github.com/your-repo/demo.mp4)** to view the video directly.
+[click here](https://github.com/sakshiselmokar/Sahayata-mental-health-support-chatbot-/blob/main/demo_video_of_project.mp4)** to view the video directly.
 
 ---
 
